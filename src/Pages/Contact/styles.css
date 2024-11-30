@@ -1,0 +1,17 @@
+.contact_main {
+  background-color: #ccd3dd;
+  text-align: start;
+}
+.contact_main h1 {
+  font-family: "Manrope", Sans-serif;
+}
+.contact_main h3 {
+  color: #808081;
+  margin: 0 0 2rem 0.5rem;
+  font-size: 1rem;
+  line-height: 2;
+}
+
+.contact_box {
+  background-color: #0e4678;
+}

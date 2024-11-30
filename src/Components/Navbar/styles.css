@@ -1,0 +1,23 @@
+.navbar {
+  opacity: 1;
+  position: fixed;
+  top: 10px;
+  z-index: 1000;
+}
+.navlinks {
+  background: #fff;
+  padding: 10px;
+  border-radius: 15px;
+}
+.navlinks p,
+a {
+  color: #2f6f71;
+}
+.navbar BUTTON {
+  background: #04455d;
+  color: #fff;
+  font-weight: 600;
+  padding: 5px 30px;
+  border-radius: 10px;
+  font-size: 0.8rem;
+}

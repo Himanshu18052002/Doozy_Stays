@@ -1,0 +1,22 @@
+.about h2 {
+  color: #020202;
+  font-family: "Ramabhadra", Sans-serif;
+  font-size: 2.8rem;
+  font-weight: 400;
+}
+.about {
+  text-align: center;
+  font-family: "Poppins", Sans-serif;
+  font-size: 1rem;
+  font-weight: 400;
+  color: #979797;
+}
+.about-feature {
+  background-color: #dbe6ef;
+  margin: 0 -8rem;
+}
+.about-feature h3 {
+  font-family: "Poppins", Sans-serif;
+  font-size: 1rem;
+  font-weight: 500;
+}
